@@ -1,0 +1,16 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.col{
+    margin-left: 2px
+    /* height: 10px; */
+}
+.container-fluid .row{
+    margin-top: 5px;
+}
+/* 
+.container-fluid{
+    margin: 0;
+    padding: 0;
+} */
